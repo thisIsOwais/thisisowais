@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisIsOwais" alt="thisIsOwais" /></a> </p>
 
-- 💬 Ask me about **REACT.JS JAVASCRIPT**
+- 💬 Ask me about **REACT.JS JAVASCRIPT AI LANGCHAIN AI AGENTS BACKEND PYTHON C++ AND MANY MORE**
 
 - 📫 How to reach me **owaismohd857@gmail.com**
 
